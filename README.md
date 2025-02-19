@@ -28,4 +28,4 @@
 - Software design and engineering
 - Algorithms and data structure
 - Databases
-While I debated improving different artifacts for each category, I decided on improving a single artifact; a mobile inventory app I made during my time in CS-360: Mobile Architecture and Programming.
+### While I debated improving different artifacts for each category, I decided on improving a single artifact; a mobile inventory app I made during my time in CS-360: Mobile Architecture and Programming.
