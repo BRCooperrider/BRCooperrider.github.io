@@ -2,7 +2,7 @@
 
 ## Professional Self-Assesment
 
-### During my time in the computer science program at SNHU, I have had the oppurtunity to develop my professional skills and abilities. I started the program with minimal experience with computer science and developing code. As my time in the program passed, I quickly realized I made a great choice in this field of study as the deeper I went into the program, the more I wanted to learn. 
+#### During my time in the computer science program at SNHU, I have had the oppurtunity to develop my professional skills and abilities. I started the program with minimal experience with computer science and developing code. As my time in the program passed, I quickly realized I made a great choice in this field of study as the deeper I went into the program, the more I wanted to learn. 
 
 ### There are certain vital skills I have learned such as collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and databases, and security. Each course I have taken refined one, or multiple skills in unique ways, leading up to my final capstone project presented in this portfolio.
 
@@ -24,8 +24,9 @@
 
 ## Mobile inventory application
 
-### For this capstone, I had to choose one or more artifacts that demonstrate my skills in three key categories:
+#### For this capstone, I had to choose one or more artifacts that demonstrate my skills in three key categories:
 - Software design and engineering
 - Algorithms and data structure
 - Databases
-### While I debated improving different artifacts for each category, I decided on improving a single artifact; a mobile inventory app I made during my time in CS-360: Mobile Architecture and Programming.
+
+#### While I debated improving different artifacts for each category, I decided on improving a single artifact; a mobile inventory app I made during my time in CS-360: Mobile Architecture and Programming.
