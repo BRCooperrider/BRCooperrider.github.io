@@ -1,4 +1,4 @@
-# Welcome. This portfolio showcases my capstone project for CS-499 at Southern New Hampshire University.
+# Welcome. This portfolio showcases my capstone project for CS-499 and my education journey at Southern New Hampshire University.
 
 ## Professional Self-Assesment
 
@@ -11,6 +11,7 @@
  - [OpenGL basics](https://github.com/BRCooperrider/CS-330)
  - [CRUD](https://github.com/BRCooperrider/CS-340)
  - [Embedded programming](https://github.com/BRCooperrider/CS-350)
+ - [Mobile development](https://github.com/BRCooperrider/CS-360)
  - [Machine learning](https://github.com/BRCooperrider/CS-370)
  - [Secure coding principles](https://github.com/BRCooperrider/CS-405)
 
@@ -20,3 +21,11 @@
 - Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
 - Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
 - Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+## Mobile inventory application
+
+### For this capstone, I had to choose one or more artifacts that demonstrate my skills in three key categories:
+- Software design and engineering
+- Algorithms and data structure
+- Databases
+While I debated improving different artifacts for each category, I decided on improving a single artifact; a mobile inventory app I made during my time in CS-360: Mobile Architecture and Programming.
