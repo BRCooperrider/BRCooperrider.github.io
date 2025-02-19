@@ -7,9 +7,9 @@
 ### There are certain vital skills I have learned such as collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and databases, and security. Each course I have taken refined one, or multiple skills in unique ways, leading up to my fianl capstone project presented in this portfolio.
 
 ## Skills learned from courses
-## - [Writing test code](https://github.com/BRCooperrider/CS-320)
-## - [CRUD](https://github.com/BRCooperrider/CS-340)
-## - [Embedded programs](https://github.com/BRCooperrider/CS-350)
-## - [Machine learning](https://github.com/BRCooperrider/CS-370)
+ - [Writing test code](https://github.com/BRCooperrider/CS-320)
+ - [CRUD](https://github.com/BRCooperrider/CS-340)
+ - [Embedded programs](https://github.com/BRCooperrider/CS-350)
+ - [Machine learning](https://github.com/BRCooperrider/CS-370)
 
 This includes [writing test code](https://github.com/BRCooperrider/CS-320), learning [CRUD](https://github.com/BRCooperrider/CS-340), developing [embedded programs](https://github.com/BRCooperrider/CS-350), to [machine learning](https://github.com/BRCooperrider/CS-370).
