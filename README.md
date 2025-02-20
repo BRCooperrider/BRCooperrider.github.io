@@ -42,7 +42,6 @@
 
 #### To start with enhancement one, I wanted to clean up the layout of the main inventory screen. I removed a row from the top and bottom of the recycler view to allow room for the floating action button at the bottom and filtering/sorting capabilities at the top. I also added a popup to each item in the inventory to view additional details about an item. Within this popup view is an additional way to remove an item from the database; just click the delete item button and it is removed. The completion of this enhancement means I can check off two of the capstone evaluation criteria.
 
-####
 - [x] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
 - [x] Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
 - [ ] Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
