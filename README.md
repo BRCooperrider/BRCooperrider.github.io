@@ -54,8 +54,25 @@
 #### Link to [Enhancement Two](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Two/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement Two Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Two%20Bryce%20Cooperrider.pdf)
 
+#### Enhancement two showcases my ability to add algortithms and data structures. I added sorting and filtering functions to help the user better understand the contents of their inventory. I originally wanted to add a 'search' functionality as well but couldn't distinguish the feature enough from the filter function, so I ended up scrapping the idea, especially because the filter is able to find partial strings as well as full items.
+
+#### The completion of this enhancement checks off two more of the capstone evaluation criteria.
+- [x] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+- [x] Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+- [x] Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+- [x] Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+- [ ] Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
 ## Enhancement Three: Databases
 
 #### Link to [Enhancement Three](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Three/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement Three Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Three%20Bryce%20Cooperrider.pdf)
 
+#### Enhancement three showcases my ability to work with databases. I started by adding an extra column to the inventory database allowing for a description of each item. This can help the user add additional details to their items if they wish. Next I improved upon the user database where login and password information is stored. I added input validation for the email address to ensure entries follow a typical email address, as well as added security to the stored passwords by utilizing SHA-256 encryption.
+
+#### The completion of this last enhancement checks off the last capstone evaluation criteria.
+- [x] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+- [x] Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+- [x] Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+- [x] Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+- [x] Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
