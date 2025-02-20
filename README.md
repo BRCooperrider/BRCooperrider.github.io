@@ -31,21 +31,22 @@
 
 #### While I debated improving different artifacts for each category, I decided on improving a single artifact; a mobile inventory app I made during my time in CS-360: Mobile Architecture and Programming. This project was big enough where I could demonstrate my skills in the three categories through a single project.
 
-## [Code review](https://www.youtube.com/watch?v=urmln6oFHZg) of the original artifact.
+### [Code review](https://www.youtube.com/watch?v=urmln6oFHZg) of the original artifact.
 
-## Link to the [Original](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App) app I improved upon.
+### Link to the [Original](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App) app I improved upon.
 
 ## Enhancement One
 
-### Link to [Enhancement One](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App)
-### Link to [Enhancement One Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20One%20Bryce%20Cooperrider.pdf)
+#### Link to [Enhancement One](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App)
+#### Link to [Enhancement One Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20One%20Bryce%20Cooperrider.pdf)
 
 ## Enhancement Two
 
-### Link to [Enhancement Two](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Two/Project_2_Bryce_Cooperrider_Inventory_App)
-### Link to [Enhancement Two Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Two%20Bryce%20Cooperrider.pdf)
+#### Link to [Enhancement Two](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Two/Project_2_Bryce_Cooperrider_Inventory_App)
+#### Link to [Enhancement Two Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Two%20Bryce%20Cooperrider.pdf)
 
-### Enhancement Three
-### Link to [Enhancement Three](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Three/Project_2_Bryce_Cooperrider_Inventory_App)
-### Link to [Enhancement Three Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Three%20Bryce%20Cooperrider.pdf)
+## Enhancement Three
+
+#### Link to [Enhancement Three](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Three/Project_2_Bryce_Cooperrider_Inventory_App)
+#### Link to [Enhancement Three Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Three%20Bryce%20Cooperrider.pdf)
 
