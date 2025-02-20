@@ -2,9 +2,9 @@
 
 ## Professional Self-Assesment
 
-#### During my time in the computer science program at SNHU, I have had the oppurtunity to develop my professional skills and abilities. I started the program with minimal experience with computer science and developing code. As my time in the program passed, I quickly realized I made a great choice in this field of study as the deeper I went into the program, the more I wanted to learn. 
+#### During my time in the computer science program at SNHU, I have had the oppurtunity to develop my professional skills and abilities. I started the program with minimal experience with computer science and code development. As my time in the program passed, I quickly realized I had made a great choice in this field of study. The deeper I went into the program, the more I wanted to learn. 
 
-#### There are certain vital skills I have learned such as collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and databases, and security. Each course I have taken refined one, or multiple skills in unique ways, leading up to my final capstone project presented in this portfolio.
+#### There are certain vital skills I have learned such as: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and databases, and secure coding. Each course I have taken refined one or more skills in unique ways, leading up to my final capstone project presented in this portfolio.
 
 ## Skills learned from courses
  - [Writing test code](https://github.com/BRCooperrider/CS-320)
@@ -29,7 +29,7 @@
 - Algorithms and data structure
 - Databases
 
-#### While I debated improving different artifacts for each category, I decided on improving a single artifact; a mobile inventory app I made during my time in CS-360: Mobile Architecture and Programming. This project was big enough where I could demonstrate my skills in the three categories through a single project.
+#### While I debated improving different artifacts for each category, I decided to improve a single artifact instead. It is a mobile inventory application I made during my time in CS-360: Mobile Architecture and Programming. This project was big enough where I could demonstrate my skills in the three categories using a single project.
 
 ### [Code review](https://www.youtube.com/watch?v=urmln6oFHZg) of the original artifact.
 
@@ -40,7 +40,7 @@
 #### Link to [Enhancement One](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement One Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20One%20Bryce%20Cooperrider.pdf)
 
-#### To start with enhancement one, I wanted to clean up the layout of the main inventory screen. I removed a row from the top and bottom of the recycler view to allow room for the floating action button at the bottom and filtering/sorting capabilities at the top. I also added a popup to each item in the inventory to view additional details about an item. Within this popup view is an additional way to remove an item from the database; just click the delete item button and it is removed. 
+#### To start with Enhancement One, I wanted to clean up the layout of the main inventory screen. I removed a row from the top and bottom of the recycler view to allow room for the floating action button at the bottom and filtering/sorting capabilities at the top. I also added a popup to each item in the inventory to view additional details about the selected item. Within this popup view is an additional way to remove an item from the database; just click the delete item button and it is removed. 
 
 #### The completion of this enhancement means I can check off two of the capstone evaluation criteria.
 - [x] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
@@ -54,7 +54,7 @@
 #### Link to [Enhancement Two](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Two/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement Two Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Two%20Bryce%20Cooperrider.pdf)
 
-#### Enhancement two showcases my ability to add algortithms and data structures. I added sorting and filtering functions to help the user better understand the contents of their inventory. I originally wanted to add a 'search' functionality as well but couldn't distinguish the feature enough from the filter function, so I ended up scrapping the idea, especially because the filter is able to find partial strings as well as full items.
+#### Enhancement Two showcases my ability to add algortithms and data structures. I added multiple sorting options and a filter function to help the user better understand the contents of their inventory. I originally wanted to add a 'search' functionality as well, but couldn't distinguish the feature enough from the filter function, so I ended up scrapping the idea, especially because the filter is able to find partial strings as well as full items.
 
 #### The completion of this enhancement checks off two more of the capstone evaluation criteria.
 - [x] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
@@ -68,7 +68,7 @@
 #### Link to [Enhancement Three](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Three/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement Three Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Three%20Bryce%20Cooperrider.pdf)
 
-#### Enhancement three showcases my ability to work with databases. I started by adding an extra column to the inventory database allowing for a description of each item. This can help the user add additional details to their items if they wish. Next I improved upon the user database where login and password information is stored. I added input validation for the email address to ensure entries follow a typical email address, as well as added security to the stored passwords by utilizing SHA-256 encryption.
+#### Enhancement Three showcases my ability to work with databases. I started by adding an extra column to the inventory database allowing for a description of each item. This can help the user add additional details to their items if they wish. Next I improved upon the user database where login and password information is stored. I added input validation for the email address to ensure entries follow a typical email address, as well as added security to the stored passwords by utilizing SHA-256 encryption.
 
 #### The completion of this last enhancement checks off the last capstone evaluation criteria.
 - [x] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
