@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project_2_Bryce_Cooperrider_Inventory_App</string>
+    <string name="add_item">Add Item</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="increase_quantity">Increase Quantity</string>
+    <string name="decrease_quantity">Decrease Quantity</string>
+</resources>

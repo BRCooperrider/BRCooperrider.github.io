@@ -1,0 +1,75 @@
+package com.example.project_2_bryce_cooperrider_inventory_app;
+
+import android.content.ContentValues;
+import android.content.Context;
+import android.database.Cursor;
+import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteOpenHelper;
+
+public class InventoryHelper extends SQLiteOpenHelper {
+
+    //Variable declaration
+    private static final String DATABASE_NAME = "Inventory.db";
+    private static final int DATABASE_VERSION = 1;
+    private static final String TABLE_NAME = "inventory";
+    public static final String COLUMN_ID = "_id";
+    public static final String COLUMN_NAME = "name";
+    public static final String COLUMN_QUANTITY = "quantity";
+
+    //Constructor for the InventoryHelper
+    public InventoryHelper(Context context) {
+        super(context, DATABASE_NAME, null, DATABASE_VERSION);
+    }
+
+    //Creates the database using sqlite
+    @Override
+    public void onCreate(SQLiteDatabase db) {
+        String CREATE_TABLE = "CREATE TABLE " + TABLE_NAME + " ("
+                + COLUMN_ID + " INTEGER PRIMARY KEY AUTOINCREMENT, "
+                + COLUMN_NAME + " TEXT, "
+                + COLUMN_QUANTITY + " INTEGER)";
+        db.execSQL(CREATE_TABLE);
+    }
+
+    //Drops the existing database and creates a new one when needed
+    @Override
+    public void onUpgrade(SQLiteDatabase db, int oldVersion, int newVersion) {
+        db.execSQL("DROP TABLE IF EXISTS " + TABLE_NAME);
+        onCreate(db);
+    }
+
+    //Adds a new item to the inventory
+    public boolean addItem(String name, int quantity) {
+        SQLiteDatabase db = this.getWritableDatabase();
+        ContentValues values = new ContentValues();
+        values.put(COLUMN_NAME, name);
+        values.put(COLUMN_QUANTITY, quantity);
+
+        long result = db.insert(TABLE_NAME, null, values);
+        return result != -1;
+    }
+
+    //Retrieves all items from the inventory
+    public Cursor getAllItems() {
+        SQLiteDatabase db = this.getReadableDatabase();
+        return db.rawQuery("SELECT * FROM " + TABLE_NAME, null);
+    }
+
+    //Updates an existing item
+    public boolean updateItem(int id, String name, int quantity) {
+        SQLiteDatabase db = this.getWritableDatabase();
+        ContentValues values = new ContentValues();
+        values.put(COLUMN_NAME, name);
+        values.put(COLUMN_QUANTITY, quantity);
+
+        int result = db.update(TABLE_NAME, values, COLUMN_ID + "=?", new String[]{String.valueOf(id)});
+        return result > 0;
+    }
+
+    //Deletes an item by name
+    public boolean deleteItemByName(String itemName) {
+        SQLiteDatabase db = this.getWritableDatabase();
+        int rowsAffected = db.delete(TABLE_NAME, COLUMN_NAME + "=?", new String[]{itemName});
+        return rowsAffected > 0;
+    }
+}

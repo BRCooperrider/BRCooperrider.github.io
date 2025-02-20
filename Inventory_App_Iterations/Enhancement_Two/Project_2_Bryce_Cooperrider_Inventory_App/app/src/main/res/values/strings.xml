@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Project_2_Bryce_Cooperrider_Inventory_App</string>
+    <string name="add_item">Add Item</string>
+    <string name="remove_item">Remove Item</string>
+    <string name="increase_quantity">Increase Quantity</string>
+    <string name="decrease_quantity">Decrease Quantity</string>
+    <string name="item_name">Item Name</string>
+    <string name="quantity_label">Quantity: %d</string>
+    <string name="increase_item_label">+</string>
+    <string name="decrease_item_label">-</string>
+    <string name="item_description">Item Description</string>
+    <string name="delete_item">Delete Item</string>
+    <string name="sort">Sort</string>
+    <string name="filter">Filter</string>
+    <string name="search">Search</string>
+    <string name="sort_by_name_asc">Sort By Name Ascending</string>
+    <string name="sort_by_name_desc">Sort By Name Descending</string>
+    <string name="sort_by_quantity_asc">Sort By Quantity Ascending</string>
+    <string name="sort_by_quantity_desc">Sort By Quantity Descending</string>
+    <string name="filter_hint">Enter filter text</string>
+    <string name="apply_filter">Filter</string>
+
+</resources>
