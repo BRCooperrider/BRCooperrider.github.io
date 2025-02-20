@@ -35,17 +35,26 @@
 
 ### Link to the [Original](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App) app I improved upon.
 
-## Enhancement One
+## Enhancement One: Software Design and Engineering
 
 #### Link to [Enhancement One](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement One Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20One%20Bryce%20Cooperrider.pdf)
 
-## Enhancement Two
+#### To start with enhancement one, I wanted to clean up the layout of the main inventory screen. I removed a row from the top and bottom of the recycler view to allow room for the floating action button at the bottom and filtering/sorting capabilities at the top. I also added a popup to each item in the inventory to view additional details about an item. Within this popup view is an additional way to remove an item from the database; just click the delete item button and it is removed. The completion of this enhancement means I can check off two of the capstone evaluation criteria.
+
+####
+- [x] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
+- [x] Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
+- [ ] Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
+- [ ] Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
+- [ ] Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+## Enhancement Two: Algorithms and Data Structures
 
 #### Link to [Enhancement Two](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Two/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement Two Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Two%20Bryce%20Cooperrider.pdf)
 
-## Enhancement Three
+## Enhancement Three: Databases
 
 #### Link to [Enhancement Three](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Three/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement Three Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Three%20Bryce%20Cooperrider.pdf)
