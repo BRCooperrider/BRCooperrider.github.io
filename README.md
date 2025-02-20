@@ -31,4 +31,4 @@
 
 #### While I debated improving different artifacts for each category, I decided on improving a single artifact; a mobile inventory app I made during my time in CS-360: Mobile Architecture and Programming. This project was big enough where I could demonstrate my skills in the three categories through a single project.
 
-#### [Code review](https://www.youtube.com/watch?v=urmln6oFHZg) of the original artifact.
+## [Code review](https://www.youtube.com/watch?v=urmln6oFHZg) of the original artifact.
