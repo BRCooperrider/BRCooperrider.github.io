@@ -33,4 +33,4 @@
 
 ## [Code review](https://www.youtube.com/watch?v=urmln6oFHZg) of the original artifact.
 
-## Link to the [Original](Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App/) app I improved upon.
+## Link to the [Original](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App) app I improved upon.
