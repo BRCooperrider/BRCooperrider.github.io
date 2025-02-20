@@ -37,14 +37,15 @@
 
 ## Enhancement One
 
-Link to [Enhancement One](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App)
-Link to [Enhancement One Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20One%20Bryce%20Cooperrider.pdf)
+### Link to [Enhancement One](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App)
+### Link to [Enhancement One Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20One%20Bryce%20Cooperrider.pdf)
 
 ## Enhancement Two
-Link to [Enhancement Two](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Two/Project_2_Bryce_Cooperrider_Inventory_App)
-Link to [Enhancement Two Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Two%20Bryce%20Cooperrider.pdf)
 
-## Enhancement Three
-Link to [Enhancement Three](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Three/Project_2_Bryce_Cooperrider_Inventory_App)
-Link to [Enhancement Three Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Three%20Bryce%20Cooperrider.pdf)
+### Link to [Enhancement Two](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Two/Project_2_Bryce_Cooperrider_Inventory_App)
+### Link to [Enhancement Two Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Two%20Bryce%20Cooperrider.pdf)
+
+### Enhancement Three
+### Link to [Enhancement Three](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Three/Project_2_Bryce_Cooperrider_Inventory_App)
+### Link to [Enhancement Three Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Three%20Bryce%20Cooperrider.pdf)
 
