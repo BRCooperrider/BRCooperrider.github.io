@@ -40,8 +40,8 @@
 #### Link to [Enhancement One](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement One Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20One%20Bryce%20Cooperrider.pdf)
 
-#### Pictures
-- [Enhanced Inventory Screen](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20One/InventoryScreen_EnhancedLayout.PNG)
+#### Images
+- [Enhanced Inventory Page](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20One/InventoryScreen_EnhancedLayout.PNG)
 - [Item Info Popup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20One/InventoryScreen_ItemInfo.PNG)
 
 #### To start with Enhancement One, I wanted to clean up the layout of the main inventory screen. I removed a row from the top and bottom of the recycler view to allow room for the floating action button at the bottom and filtering/sorting capabilities at the top. I also added a popup to each item in the inventory to view additional details about the selected item. Within this popup view is an additional way to remove an item from the database; just click the delete item button and it is removed. 
@@ -58,6 +58,16 @@
 #### Link to [Enhancement Two](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Two/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement Two Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Two%20Bryce%20Cooperrider.pdf)
 
+#### Images
+- [Sort and Filter Buttons](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_MainScreen.PNG)
+- [Sorting Options](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_Main.PNG)
+- [Sort by Name Ascending](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_Main.PNG)
+- [Sort by Name Descending](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_NameDesc.PNG)
+- [Sort by Quantity Ascending](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_QuantityAsc.PNG)
+- [Sort by Quantity Descending](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_QuantityDesc.PNG)
+- [Filter Popup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_FilterMain.PNG)
+- [Filter Example](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_FilterExample.PNG)
+
 #### Enhancement Two showcases my ability to add algortithms and data structures. I added multiple sorting options and a filter function to help the user better understand the contents of their inventory. I originally wanted to add a 'search' functionality as well, but couldn't distinguish the feature enough from the filter function, so I ended up scrapping the idea, especially because the filter is able to find partial strings as well as full items.
 
 #### The completion of this enhancement checks off two more of the capstone evaluation criteria.
@@ -71,6 +81,9 @@
 
 #### Link to [Enhancement Three](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Three/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement Three Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20Three%20Bryce%20Cooperrider.pdf)
+
+#### Images
+- [Enhanced Login Page](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Three/LoginPage_Enhanced.PNG)
 
 #### Enhancement Three showcases my ability to work with databases. I started by adding an extra column to the inventory database allowing for a description of each item. This can help the user add additional details to their items if they wish. Next I improved upon the user database where login and password information is stored. I added input validation for the email address to ensure entries follow a typical email address, as well as added security to the stored passwords by utilizing SHA-256 encryption.
 
