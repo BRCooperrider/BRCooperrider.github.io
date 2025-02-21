@@ -40,6 +40,10 @@
 #### Link to [Enhancement One](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App)
 #### Link to [Enhancement One Writeup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Writeups/Enhancement%20One%20Bryce%20Cooperrider.pdf)
 
+#### Pictures
+- [Enhanced Inventory Screen](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20One/InventoryScreen_EnhancedLayout.PNG)
+- [Item Info Popup](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20One/InventoryScreen_ItemInfo.PNG)
+
 #### To start with Enhancement One, I wanted to clean up the layout of the main inventory screen. I removed a row from the top and bottom of the recycler view to allow room for the floating action button at the bottom and filtering/sorting capabilities at the top. I also added a popup to each item in the inventory to view additional details about the selected item. Within this popup view is an additional way to remove an item from the database; just click the delete item button and it is removed. 
 
 #### The completion of this enhancement means I can check off two of the capstone evaluation criteria.
