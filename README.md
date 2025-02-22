@@ -31,9 +31,9 @@
 
 #### While I debated improving different artifacts for each category, I decided to improve a single artifact instead. It is a mobile inventory application I made during my time in CS-360: Mobile Architecture and Programming. This project was big enough where I could demonstrate my skills in the three categories using a single project.
 
-### [Code review](https://www.youtube.com/watch?v=urmln6oFHZg) of the original artifact.
+#### [Code review](https://www.youtube.com/watch?v=urmln6oFHZg) of the original artifact.
 
-### Link to the [Original](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App) app I improved upon.
+#### Link to the [Original](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Original/Project_2_Bryce_Cooperrider_Inventory_App) app I improved upon.
 
 ## Enhancement One: Software Design and Engineering
 
