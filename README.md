@@ -2,7 +2,9 @@
 
 ## Professional Self-Assesment
 
-#### During my time in the computer science program at SNHU, I have had the oppurtunity to develop my professional skills and abilities. I started the program with minimal experience in computer science and code development. As my time in the program passed, I quickly realized I had made a great choice in this field of study. The deeper I went into the program, the more I wanted to learn. 
+#### During my time in the computer science program at SNHU, I have had the oppurtunity to develop my professional skills and abilities. I started the program with minimal experience in computer science and code development. As my time in the program passed, I quickly realized I had made a great choice in this field of study. The deeper I went into the program, the more I wanted to learn.
+
+#### The process of enhancing this capstone project has taught me the power of making a plan before beginning to work, along with the power of iterative development. I was originally taught these principles when I began the course. I understood them to some degree, but as I kept learning and enhancing my skills, it became clear to me why it is best to develop in this way. I have been able to improve the quality of my work by planning ahead what I want to accomplish. Developing my code in iterations allows me to tackle large problems by breaking them up into smaller pieces.
 
 #### There are certain vital skills I have learned such as: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and databases, and secure coding. Each course I have taken refined one or more skills in unique ways, leading up to my final capstone project presented in this portfolio.
 
@@ -61,7 +63,7 @@
 #### Images
 - [Sort and Filter Buttons](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_MainScreen.PNG)
 - [Sorting Options](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_Main.PNG)
-- [Sort by Name Ascending](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_Main.PNG)
+- [Sort by Name Ascending](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_NameAsc.PNG)
 - [Sort by Name Descending](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_NameDesc.PNG)
 - [Sort by Quantity Ascending](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_QuantityAsc.PNG)
 - [Sort by Quantity Descending](https://github.com/BRCooperrider/BRCooperrider.github.io/blob/main/Images/Enhancement%20Two/Enhancement_Two_SortFunction_QuantityDesc.PNG)
