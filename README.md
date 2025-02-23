@@ -50,6 +50,10 @@
 
 #### To start with Enhancement One, I wanted to clean up the layout of the main inventory screen. I removed a row from the top and bottom of the recycler view. This allows room for the floating action button at the bottom and filtering/sorting capabilities at the top. I also added a popup to each item in the inventory to view additional details about the selected item. Within this popup, there is an additional way to remove an item from the database; just click the delete item button and it is removed. 
 
+#### Reflection
+
+#### The first big thing I learned was more functionality of XML files. I am not the best at UI design so I wasn’t sure what I could modify in the files to make the layout look better. I have knowledge of more ways to modify these files now. I also learned how to incorporate popup views within an application. The biggest challenge I faced was getting the recycler view to update when an item was deleted from it. I knew the database was reflecting the change from the confirmation message, but it wasn’t being visually reflected. Eventually I learned that it was due to the cursor not properly being updated, so I added additional code to have it work properly.
+
 #### The completion of this enhancement means I can check off two of the capstone evaluation criteria.
 - [x] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science
 - [x] Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts
