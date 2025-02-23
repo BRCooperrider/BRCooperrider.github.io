@@ -4,7 +4,7 @@
 
 #### During my time in the computer science program at SNHU, I have had the oppurtunity to develop my professional skills and abilities. I started the program with minimal experience in computer science and code development. As my time in the program passed, I quickly realized I had made a great choice in this field of study. The deeper I went into the program, the more I wanted to learn.
 
-#### The process of enhancing this capstone project has taught me the power of making a plan before beginning to work, along with the power of iterative development. I was originally taught these principles when I began the course. I understood them to some degree, but as I kept learning and enhancing my skills, it became clear to me why it is best to develop in this way. I have been able to improve the quality of my work by planning ahead what I want to accomplish. Developing my code in iterations allows me to tackle large problems by breaking them up into smaller pieces.
+#### The process of enhancing this capstone project has taught me the power of making a plan before beginning to work, along with the power of iterative development. I was originally taught these principles when I began my time in the computer science program. I understood them to some degree, but as I kept learning and enhancing my skills, it became clear to me why it is best to develop in this way. I have been able to improve the quality of my work by planning ahead what I want to accomplish. Developing my code in iterations allows me to tackle large problems by breaking them up into smaller pieces. The combination of these skills has led me to become a better developer.
 
 #### There are certain vital skills I have learned such as: collaborating in a team environment, communicating with stakeholders, data structures and algorithms, software engineering and databases, and secure coding. Each course I have taken refined one or more skills in unique ways, leading up to my final capstone project presented in this portfolio.
 
@@ -32,6 +32,8 @@
 - Databases
 
 #### While I debated improving different artifacts for each category, I decided to improve a single artifact instead. It is a mobile inventory application I made during my time in CS-360: Mobile Architecture and Programming. This project was big enough where I could demonstrate my skills in the three categories using a single project.
+
+#### The original program was my first introduction using Android Studio. I enjoyed using it due to its straightforwardness and ability to emulate mobile devices in real time. The inventory application had a few requirements. It needed to contain a login page, contain SMS capabilities, utilize separate databases, and provide basic funtions to add and remove items from one of the databases. As expected, the original program took a lot of time to develop due to my unfamilarity with Android studio and experience developing on a larger scale. By the time I got around to making the enhancements for this capstone I felt much better in my ability to improve upon it.
 
 #### [Code review](https://www.youtube.com/watch?v=urmln6oFHZg) of the original artifact.
 
