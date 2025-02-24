@@ -108,3 +108,17 @@
 - [x] Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices
 - [x] Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals
 - [x] Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources
+
+## Conclusion
+
+#### I am thankful to have had the opportunity to showcase my skills learned through SNHU's computer science program.
+#### It has provided me with necessary skills such as 
+- [Collaborating in a team environment](https://github.com/BRCooperrider/CS_255) where I worked with peers to analyze the needs of the client DriverPass
+- [Communicate with stakeholders](https://github.com/BRCooperrider/CS_305) figuring out ways to fix security vulnerabilities
+- Experience with [Data structures and algorithms](https://github.com/BRCooperrider/CS-370) learning about Q-training and its efficiencies, as well as general knowledge of [data structrues](https://github.com/BRCooperrider/CS_300) and when to use them
+- [Database knowledge](https://github.com/BRCooperrider/CS-340) learning CRUD principles and applications
+- [Functional and secure coding](https://github.com/BRCooperrider/CS-320) to understand the importance of secure code
+
+#### The culmination of my studies has set me up to be confident in my future endeavors for a career utilizing computer science. This capstone provides an excellent baseline of my work which will continuously get better as I gain more experience within the field.
+
+#### Here is the link to my final iteration of the [Inventory App](https://github.com/BRCooperrider/BRCooperrider.github.io/tree/main/Inventory_App_Iterations/Enhancement_Final/Project_2_Bryce_Cooperrider_Inventory_App)
