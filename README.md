@@ -79,7 +79,7 @@
 
 #### Reflecting on Enhancement Two, I learned was more about the the use of popups within Android Studio. I chose to use them because they give a clean and responsive feel when pulling up a function, without needing to load a whole different page. I also learned much more about the setOnClickListener() function within Android Studio as I make great use of this through all the buttons and functionality I have added. 
 #### One challenge I started to face was my emulator not loading while working on these enhancements. I’m unsure why this was the case as no other code I’ve added caused it to hang and stall out. I fixed this by downloading a different phone to emulate, as well as research common problems that may cause this issue. I’m still not exactly sure what caused it but emulating a fresh device worked well for me. 
-#### Another Challenge I’m facing is with the Filter button. Once an item is filtered, it shows the appropriate results as expected. From there, trying to change the quantity of an item in that view will work for one click, but then proceed to go back to the default view of the inventory. I plan to have a fix before the final submission of this project but am still working on it at the moment.
+#### Another Challenge I faced is with the Filter button. Once an item is filtered, it shows the appropriate results as expected. From there, trying to change the quantity of an item in that view will work for one click, but then proceed to go back to the default view of the inventory. I managed to fix this by keeping the filtered view open until the filter button is clicked again.
 
 
 #### The completion of this enhancement checks off two more of the capstone evaluation criteria.
